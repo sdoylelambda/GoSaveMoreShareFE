@@ -1,0 +1,32 @@
+.product {
+  width: 300px;
+  display: flex;
+  justify-content: center;
+}
+
+.product p {
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.product-name {
+  text-align: center;
+}
+
+.product-button {
+  margin: 0 3rem;
+}
+
+.product .card-title {
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+.product .btn {
+  margin-left: 95px;
+}
+
+.product button {
+  background-color: #536b8e !important;
+  color: #fff !important;
+}

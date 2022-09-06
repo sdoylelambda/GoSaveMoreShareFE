@@ -1,0 +1,17 @@
+.product {
+  &-container {
+    h3 {
+      font-size: 1.5rem;
+      margin-left: 2rem;
+    }
+  }
+  &.card {
+    margin: 1rem;
+  }
+  &-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0.5rem;
+  }
+}

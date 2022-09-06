@@ -1,0 +1,31 @@
+.product {
+  width: 300px;
+  display: flex;
+  justify-content: center;
+
+  p {
+    text-align: center;
+    padding: 1rem 0;
+  }
+
+  &-name {
+    text-align: center;
+  }
+
+  &-button {
+    margin: 0 3rem;
+  }
+  .card-title {
+    font-size: 16px;
+    font-weight: bolder;
+  }
+
+  .btn {
+    margin-left: 95px;
+  }
+
+  button {
+    background-color: #536b8e !important;
+    color: #fff !important;
+  }
+}
